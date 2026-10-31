@@ -1,4 +1,4 @@
-# Radioactive Decay Lab
+ # ⚛️ Radioactive Decay Lab
 
 An interactive teaching app for parent–daughter radioactive decay:
 - Secular equilibrium
